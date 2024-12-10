@@ -1,0 +1,1 @@
+ABCDFHIJDonde A = PHCL, B = PL, C = PLH, D = L,  F = HCL, H = C, I = CH, J = vacío siendo H = hombre, P = perro, L = lehuga y C = conejo
